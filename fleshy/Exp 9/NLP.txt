@@ -1,0 +1,17 @@
+Problem Statement:
+    To implement Natural Language Processing (NLP) program for an application.
+Tools Used: 
+    Google Collaboratory
+Algorithm:
+    1. Import the required modules, dependencies and load the dataset.
+    2. Analyze the dataset, get shape, info check for null values and balance of the dataset.
+    3. Perform Exploratory Data Analysis (EDA) and data visualization.
+    4. Slice the data in to features and label.
+    5. Create a analyzer for the text normalization.
+    a. Tokenization: Split text into list of words.
+    b. Stopwords exclusion: Remove punctuation and stopwords.
+    c. Stemming: Transform each word in text into its base form (lemma).
+    6. Split the data into training and testing datasets.
+    7. Create pipeline with vectorization and classifier as sequence of operations.
+    8. Perform vectorization using analyzer.
+    9. Train the models and compare the models.

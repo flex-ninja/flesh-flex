@@ -1,0 +1,14 @@
+Problem Statement:
+    To implement the ML algorithms for an application.
+Tools Used: 
+    Google Collaboratory
+Algorithm:
+    1. Import the required libraries such as numpy, pandas, matplotlib, etc
+    2. Define the dataset, using the functions from pandas library.
+    3. Plot the data points pandas based on the attributes of the dataset.
+    4. Define the function to calculate the value of coefficients.
+    5. Plot the error for each iteration.
+    6. Predict the values.
+    7. Plot the regression line.
+    8. Analyze the performance of the model by calculating the mean squared error.
+    9. Use the sklearn libraries to confirm the above steps.

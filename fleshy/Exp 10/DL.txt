@@ -1,0 +1,13 @@
+Problem Statement:
+    To implement the ML algorithms for an application.
+Tools Used: 
+    Google Collaboratory
+Algorithm:
+    1. Import dependencies.
+    2. Read the CSV file.
+    3. Perform Exploratory Data Analysis.
+    4. Split the dataset into training and testing datasets.
+    5. Implement scaling on features of both training and testing dataset.
+    6. Build the keras model and compile.
+    7. Fit the model with training datasets.
+    8. Perform model evaluation.
